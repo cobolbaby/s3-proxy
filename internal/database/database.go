@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"log"
 
-	"github.com/cobolbaby/s3-proxy/pkg/config"
+	"github.com/cobolbaby/schema-proxy/pkg/config"
 	_ "github.com/lib/pq"
 )
 

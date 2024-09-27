@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/cobolbaby/s3-proxy/pkg/config"
+	"github.com/cobolbaby/schema-proxy/pkg/config"
 	"github.com/minio/minio-go/v7"
 	"github.com/minio/minio-go/v7/pkg/credentials"
 )

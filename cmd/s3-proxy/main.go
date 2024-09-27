@@ -3,11 +3,11 @@ package main
 import (
 	"log"
 
-	"github.com/cobolbaby/s3-proxy/internal/database"
-	"github.com/cobolbaby/s3-proxy/internal/minio"
-	"github.com/cobolbaby/s3-proxy/internal/service"
-	"github.com/cobolbaby/s3-proxy/pkg/config"
-	"github.com/cobolbaby/s3-proxy/pkg/migration"
+	"github.com/cobolbaby/schema-proxy/internal/database"
+	"github.com/cobolbaby/schema-proxy/internal/minio"
+	"github.com/cobolbaby/schema-proxy/internal/service"
+	"github.com/cobolbaby/schema-proxy/pkg/config"
+	"github.com/cobolbaby/schema-proxy/pkg/migration"
 	"github.com/gin-gonic/gin"
 )
 

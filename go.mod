@@ -1,4 +1,4 @@
-module github.com/cobolbaby/s3-proxy
+module github.com/cobolbaby/schema-proxy
 
 go 1.22.4
 

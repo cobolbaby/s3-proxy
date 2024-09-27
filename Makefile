@@ -1,5 +1,5 @@
 # 项目名称
-APP_NAME = s3-proxy
+APP_NAME = schema-proxy
 VERSION = 1.0.0
 BUILD_DIR = bin
 
